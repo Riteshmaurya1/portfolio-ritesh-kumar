@@ -20,12 +20,12 @@
 #about .photo__container {
     overflow: hidden;
     max-height: 400px;
-    border-radius: var(--border-radius-4);
+    border-radius:30%;
     border: 2px solid var(--color-primary);
     transform: rotate(-7deg);
     transition: var(--transition);
+    background-color: white;
 }
-
 #about .photo__container:hover {
     transform: rotate(0);
 }
