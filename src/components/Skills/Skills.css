@@ -1,5 +1,5 @@
 #skill .skill__container{
-    display: grid;
+    display: inline-grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
 }
